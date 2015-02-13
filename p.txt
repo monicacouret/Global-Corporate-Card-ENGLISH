@@ -297,8 +297,8 @@
                           <ul style="left:-99999px; display: none;" class="sub">
                                         
                                         <li><a href="https://sites.google.com/a/bbva.com/prueba-gtb-welcome-pack/historia-de-bbva/cultura-corporativa" target="_parent">Cultura Corporativa</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/sibos2014/sibos2014/attendance" target="_parent">Key Contacts / Attendance</a></li>
-                                           <li><a href="https://drive.google.com/a/bbva.com/file/d/0B4tQb4HqBuEedEVVOEhPQW9pVmM/edit?usp=sharing" target="_parent">Overwiev Plan</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/prueba-gtb-welcome-pack/historia-de-bbva/bbva-en-cifras">BBVA en cifras</a></li>
+                                           <li><a href="https://sites.google.com/a/bbva.com/prueba-gtb-welcome-pack/historia-de-bbva/organigrama-bbva" target="_parent">Organigrama</a></li>
                                          </ul>
                         </li>
                         
