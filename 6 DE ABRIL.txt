@@ -300,6 +300,8 @@
                                         <li><a href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/gtb/cash-liquidity-management" target="_parent">Cash & Liquidity Management</a></li>
                                            <li><a href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/gtb/securities-services" target="_parent">Securities Services</a></li>
                                          <li><a href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/gtb/trade-finance" target="_parent">Trade Finance</a></li>
+                                         <li><a href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/gtb/its" target="_parent">International Transaction Services</a></li>
+                                         <li><a href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/gtb/cfd" target="_parent">Customer Funding Desk</a></li>
                                          </ul>
                         
                         </li>
