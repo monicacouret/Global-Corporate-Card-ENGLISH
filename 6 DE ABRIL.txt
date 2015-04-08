@@ -308,10 +308,21 @@
 
                         </li>
                         
-                         <li class="top"><a id="faq" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/faq" target="_parent">FAQ</a>
+                         <li class="top"><a id="CiudadBBVA" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/faq" target="_parent">Ciudad BBVA</a>
 
                         </li>
                         
+                        <li class="top"><a id="Comunidad social" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/comunidad-bbva" target="_parent">Comunidad social</a>
+
+                        </li>
+                        
+                        <li class="top"><a id="Appsdetrabajo" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/apps-de-trabajo" target="_parent">Apps de trabajo</a>
+
+                        </li>
+                        
+                        <li class="top"><a id="Túvaloración" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/tu-valoracion" target="_parent">Tú valoración</a>
+
+                        </li>
                 </ul>
         </div>
 
