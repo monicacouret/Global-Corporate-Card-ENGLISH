@@ -322,7 +322,7 @@
 
                         </li>
                         
-                        <li class="top"><a id="Túvaloración" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/tu-valoracion" target="_parent">Tú valoración</a>
+                        <li class="top"><a id="Tuvaloración" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/tu-valoracion" target="_parent">Tu valoración</a>
 
                         </li>
                 </ul>
