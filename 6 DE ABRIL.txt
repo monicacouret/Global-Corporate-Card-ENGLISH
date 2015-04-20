@@ -322,6 +322,10 @@
 
                         </li>
                         
+                        <li class="top"><a id="Formación" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/formacion" target="_parent">Formación</a>
+
+                        </li>
+                        
                         <li class="top"><a id="Tuvaloración" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/tu-valoracion" target="_parent">Tu valoración</a>
 
                         </li>
