@@ -314,7 +314,7 @@
 
                         </li>
                         
-                        <li class="top"><a id="Comunidad social" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/comunidad-bbva" target="_parent">Comunidad social</a>
+                        <li class="top"><a id="RR.SS." class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/comunidad-bbva" target="_parent">RR.SS.</a>
 
                         </li>
                         
