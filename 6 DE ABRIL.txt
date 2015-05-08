@@ -310,7 +310,7 @@
 
                         </li>
                         
-                         <li class="top"><a id="CiudadBBVA" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/faq" target="_parent">Ciudad BBVA</a>
+                         <li class="top"><a id="Centros" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/faq" target="_parent">Centros de trabajo</a>
 
                         </li>
                         
