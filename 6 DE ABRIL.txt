@@ -318,7 +318,7 @@
 
                         </li>
                         
-                        <li class="top"><a id="Appsdetrabajo" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/apps-de-trabajo" target="_parent">Apps de trabajo</a>
+                        <li class="top"><a id="Smart Tech." class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/apps-de-trabajo" target="_parent">Smart Tech</a>
 
                         </li>
                         
