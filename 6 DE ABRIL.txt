@@ -288,45 +288,32 @@
         
         <div id="menu">
                 <ul id="dropline">
-                        <li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/home" target="_parent" onclick="mark"></a></li>
-                        <li class="top"><a id="DondeEstoy" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/-donde-estoy" target="_parent">¿Dónde estoy?</a>
+                        <li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/" target="_parent" onclick="mark"></a></li>
+                        <li class="top"><a id="SoluciónGlobal" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/solucion-global" target="_parent">Solución Global</a>
 
                         </li>
                         
-                         <li class="top"><a id="GTB" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/gtb" target="_parent">GTB</a>
-                          <ul style="left:-99999px; display: none;" class="sub">
-                                        
-                                        <li><a href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/gtb/working-capital" target="_parent">Working Capital</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/gtb/cash-liquidity-management" target="_parent">Cash & Liquidity Management</a></li>
-                                         <li><a href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/gtb/securities-services" target="_parent">Securities Services</a></li>
-                                         <li><a href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/gtb/trade-finance" target="_parent">Trade Finance</a></li>
-                                         <li><a href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/gtb/its" target="_parent">Canales</a></li>
-                                         <li><a href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/gtb/cfd" target="_parent">Customer Funding Desk</a></li>
-                                         </ul>
-                        
+                         <li class="top"><a id="IntelliLink" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/intellilink" target="_parent">IntelliLink</a>
+                          
                         </li>
                         
-                        <li class="top"><a id="Recursos" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/recursos" target="_parent">Recursos</a>
+                        <li class="top"><a id="situación y próximos pasos" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/situacion-y-proximos-pasos" target="_parent">Situación y Próximos pasos</a>
 
                         </li>
                         
-                         <li class="top"><a id="Centros" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/faq" target="_parent">Centros de trabajo</a>
+                         <li class="top"><a id="Clientes & RFPs" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/clientes-rfps" target="_parent">Clientes & RFPs</a>
 
                         </li>
                         
-                        <li class="top"><a id="Redes Sociales" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/comunidad-bbva" target="_parent">Redes Sociales</a>
+                        <li class="top"><a id="Materiales & Circuitos" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/materiales-circuitos" target="_parent">Materiales & Circuitos</a>
 
                         </li>
                         
-                        <li class="top"><a id="Smart Tech." class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/apps-de-trabajo" target="_parent">Smart Tech</a>
+                        <li class="top"><a id="Materiales Visa" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/materiales-visa" target="_parent">Materiales Visa</a>
 
                         </li>
                         
-                        <li class="top"><a id="Formación" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/formacion" target="_parent">Formación</a>
-
-                        </li>
-                        
-                        <li class="top"><a id="Tuvaloración" class="principal" href="https://sites.google.com/a/bbva.com/pack-de-bienvenida-gtb/tu-valoracion" target="_parent">Tu valoración</a>
+                        <li class="top"><a id="Equipo" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/equipo" target="_parent">Equipo</a>
 
                         </li>
                 </ul>
