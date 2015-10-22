@@ -290,14 +290,17 @@
                 <ul id="dropline">
                         <li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/" target="_parent" onclick="mark"></a></li>
                         <li class="top"><a id="SoluciónGlobal" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/solucion-global" target="_parent">Solución Global</a>
-
+                          <ul style="left:-99999px; display: none;" class="sub">
+                                        
+                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/soluciones-de-tarjeta-corporate" target="_parent">Soluciones Tarjeta Corporate</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/global-corporate-card-solution" target="_parent">Global Corporate Card Solution</a></li>
+                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/plataformas-de-gestion" target="_parent">Management Information</a></li>
+                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/alianza-multinacional" target="_parent">Global & Local</a></li>
+                                          </ul>
+                        
                         </li>
                         
                          <li class="top"><a id="IntelliLink" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/intellilink" target="_parent">IntelliLink</a>
-                          
-                        </li>
-                        
-                        <li class="top"><a id="situación y próximos pasos" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/situacion-y-proximos-pasos" target="_parent">Situación y Próximos pasos</a>
 
                         </li>
                         
