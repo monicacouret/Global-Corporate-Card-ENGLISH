@@ -292,9 +292,9 @@
                         <li class="top"><a id="SoluciónGlobal" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/solucion-global" target="_parent">Solución Global</a>
                           <ul style="left:-99999px; display: none;" class="sub">
                                         
-                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/soluciones-de-tarjeta-corporate" target="_parent">Soluciones Tarjeta Corporate</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/soluciones-de-tarjeta-corporate" target="_parent">Soluciones de Tarjeta Corporate</a></li>
                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/global-corporate-card-solution" target="_parent">Global Corporate Card Solution</a></li>
-                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/plataformas-de-gestion" target="_parent">Management Information</a></li>
+                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/plataformas-de-gestion" target="_parent">Gestión de la Información Global</a></li>
                                          <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/alianza-multinacional" target="_parent">Global & Local</a></li>
                                           </ul>
                         
