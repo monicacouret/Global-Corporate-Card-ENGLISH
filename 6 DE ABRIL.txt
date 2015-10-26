@@ -309,6 +309,7 @@
                                         
                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/clientes-rfps" target="_parent">Novedades</a></li>
                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/clientes-rfps-1" target="_parent">RFPs</a></li>
+                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/pipeline" target="_parent">Pipeline</a></li>
                                           </ul>
                         
                         </li>
