@@ -318,10 +318,6 @@
 
                         </li>
                         
-                        <li class="top"><a id="Equipo" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/equipo" target="_parent">Equipo</a>
-
-                        </li>
-                        
                         <li class="top"><a id="Materiales Visa" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/materiales-visa" target="_parent">Materiales Visa</a>
 
                         </li>
