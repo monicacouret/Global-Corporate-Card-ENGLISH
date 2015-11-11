@@ -291,7 +291,8 @@
                         <li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/" target="_parent" onclick="mark"></a></li>
                         <li class="top"><a id="SoluciónGlobal" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/solucion-global" target="_parent">Solución Global</a>
                           <ul style="left:-99999px; display: none;" class="sub">
-                                        
+                                                                                
+                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/solucion-global" target="_parent">Solución Global</a></li>
                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/soluciones-de-tarjeta-corporate" target="_parent">Necesidades de los Stakeholders</a></li>
                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/global-corporate-card-solution" target="_parent">Global Corporate Card Solution</a></li>
                                          <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/plataformas-de-gestion" target="_parent">Gestión de la Información Global</a></li>
@@ -307,7 +308,7 @@
                          <li class="top"><a id="Clientes" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/clientes-rfps" target="_parent">Clientes</a>
                           <ul style="left:-99999px; display: none;" class="sub">
                                         
-                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/clientes-rfps" target="_parent">Novedades</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/clientes-rfps" target="_parent">Clientes</a></li>
                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/clientes-rfps-1" target="_parent">Deals & RFPs</a></li>
                                          <li><a href="https://drive.google.com/a/bbva.com/folderview?id=0BxhyR_5oRzaRYzlRZk5FY2pZMk0&usp=sharing" target="_parent">Pipeline</a></li>
                                           </ul>
