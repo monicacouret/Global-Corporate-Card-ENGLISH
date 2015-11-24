@@ -340,7 +340,7 @@
 
                         </li>
                         
-                        <li class="top"><a id="English Version" class="principal" href="https://sites.google.com/a/bbva.com/global-corporate-card-solution-english/" target="_parent">English Version</a>
+                        <li class="top"><a id="Spanish Version" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/" target="_parent">Spanish Version</a>
 
                         </li>
                 </ul>
