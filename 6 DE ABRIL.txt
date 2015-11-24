@@ -339,6 +339,10 @@
                         <li class="top"><a id="Contactos" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/contactos" target="_parent">Contactos</a>
 
                         </li>
+                        
+                        <li class="top"><a id="English Version" class="principal" href="https://sites.google.com/a/bbva.com/global-corporate-card-solution-english/" target="_parent">English Version</a>
+
+                        </li>
                 </ul>
         </div>
 
