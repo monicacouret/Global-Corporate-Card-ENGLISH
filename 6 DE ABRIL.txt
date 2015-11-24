@@ -292,8 +292,8 @@
                         <li class="top"><a id="GlobalSolution" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/global-solution" target="_parent">Global Solution</a>
                           <ul style="left:-99999px; display: none;" class="sub">
                                                                                 
-                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/solucion-global" target="_parent">Global Solution</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/soluciones-de-tarjeta-corporate" target="_parent">Stakeholders Needs</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/global-solution" target="_parent">Global Solution</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/stakeholders-needs" target="_parent">Stakeholders Needs</a></li>
                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/global-corporate-card-solution" target="_parent">Global Corporate Card Solution</a></li>
                                           <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/alianza-multinacional" target="_parent">Geographic Coverage</a></li>
                                           <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/plataformas-de-gestion" target="_parent">Global Information Management</a></li>
