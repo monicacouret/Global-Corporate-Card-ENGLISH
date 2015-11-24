@@ -289,11 +289,11 @@
         <div id="menu">
                 <ul id="dropline">
                         <li class="home"><a style="color:#fff;width:10px;margin-left:5px;" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/" target="_parent" onclick="mark"></a></li>
-                        <li class="top"><a id="SoluciónGlobal" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/solucion-global" target="_parent">Solución Global</a>
+                        <li class="top"><a id="GlobalSolution" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/solucion-global" target="_parent">Global Solution</a>
                           <ul style="left:-99999px; display: none;" class="sub">
                                                                                 
-                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/solucion-global" target="_parent">Solución Global</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/soluciones-de-tarjeta-corporate" target="_parent">Necesidades de los Stakeholders</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/solucion-global" target="_parent">Global Solution</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/soluciones-de-tarjeta-corporate" target="_parent">Stakeholders Needs</a></li>
                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/global-corporate-card-solution" target="_parent">Global Corporate Card Solution</a></li>
                                           <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/alianza-multinacional" target="_parent">Cobertura Geográfica</a></li><li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/plataformas-de-gestion" target="_parent">Gestión de la Información Global</a></li>
                                           </ul>
@@ -303,32 +303,32 @@
                          <li class="top"><a id="IntelliLink" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/intellilink" target="_parent">IntelliLink</a>
                           <ul style="left:-99999px; display: none;" class="sub">
                                                                                 
-                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/intellilink" target="_parent">IntelliLink - Manuales</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/presentaciones-il" target="_parent">IntelliLink - Presentaciones</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/intellilink" target="_parent">IntelliLink - Guides</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/presentaciones-il" target="_parent">IntelliLink - Presentations</a></li>
                                           </ul>
                         
                         </li>
                         
-                         <li class="top"><a id="Clientes" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/clientes-rfps" target="_parent">Clientes</a>
+                         <li class="top"><a id="Clients" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/clientes-rfps" target="_parent">Clients</a>
                           <ul style="left:-99999px; display: none;" class="sub">
                                         
-                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/clientes-rfps" target="_parent">Novedades</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/clientes-rfps" target="_parent">News</a></li>
                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/clientes-rfps-1" target="_parent">Pipeline</a></li>
                                           </ul>
                         
                         </li>
                         
-                        <li class="top"><a id="Materiales de Producto" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/materiales" target="_parent">Materiales de Producto</a>
+                        <li class="top"><a id="Product Materials " class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/materiales" target="_parent">Product Materials</a>
                          <ul style="left:-99999px; display: none;" class="sub">
                                         
-                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/materiales" target="_parent">Materiales de Producto</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/materiales-circuitos" target="_parent">Materiales Globales</a></li>
-                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/materiales-locales" target="_parent">Materiales Locales</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/materiales" target="_parent">Product Materials</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/materiales-circuitos" target="_parent">Global Materials</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/materiales-locales" target="_parent">Local Materials</a></li>
                                           </ul>
                         
                         </li>
                         
-                        <li class="top"><a id="Materiales Visa" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/materiales-visa" target="_parent">Materiales Visa</a>
+                        <li class="top"><a id="Visa Materials" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/materiales-visa" target="_parent">Visa Materials</a>
 
                         </li>
                         
@@ -336,7 +336,7 @@
 
                         </li>
                         
-                        <li class="top"><a id="Contactos" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/contactos" target="_parent">Contactos</a>
+                        <li class="top"><a id="Contacts" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/contactos" target="_parent">Contacts</a>
 
                         </li>
                         
