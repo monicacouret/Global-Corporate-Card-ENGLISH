@@ -329,7 +329,7 @@
                         
                         </li>
                         
-                        <li class="top"><a id="Visa Materials" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/materiales-visa" target="_parent">Visa Materials</a>
+                        <li class="top"><a id="Visa Materials" class="principal" href="https://sites.google.com/a/bbva.com/global-corporate-card-solution-english/visa-materials" target="_parent">Visa Materials</a>
 
                         </li>
                         
