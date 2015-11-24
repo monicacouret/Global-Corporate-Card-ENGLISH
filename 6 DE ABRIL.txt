@@ -310,10 +310,10 @@
                         
                         </li>
                         
-                         <li class="top"><a id="Clients" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/clientes-rfps" target="_parent">Clients</a>
+                         <li class="top"><a id="Clients" class="principal" href="https://sites.google.com/a/bbva.com/global-corporate-card-solution-english/clients_news" target="_parent">Clients</a>
                           <ul style="left:-99999px; display: none;" class="sub">
                                         
-                                        <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/clientes-rfps" target="_parent">News</a></li>
+                                        <li><a href="https://sites.google.com/a/bbva.com/global-corporate-card-solution-english/clients_news">News</a></li>
                                         <li><a href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/clientes-rfps-1" target="_parent">Pipeline</a></li>
                                           </ul>
                         
