@@ -337,7 +337,7 @@
 
                         </li>
                         
-                        <li class="top"><a id="Contacts" class="principal" href="https://sites.google.com/a/bbva.com/corporate-card-global-solution/contactos" target="_parent">Contacts</a>
+                        <li class="top"><a id="Contacts" class="principal" href="https://sites.google.com/a/bbva.com/global-corporate-card-solution-english/contacts" target="_parent">Contacts</a>
 
                         </li>
                         
